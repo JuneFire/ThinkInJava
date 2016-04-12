@@ -9,6 +9,11 @@ import com.sun.org.apache.xalan.internal.xsltc.runtime.Hashtable;
  * 如果说整个类都是final（在它的定义前冠以final 关键字），
  * 就表明自己不希望从这个类继承，或者不允 许其他任何人采取这种操作
  */
+/**
+ * 
+ * @author 程志康
+ *
+ */
 public class Jurassic {
 	public static void main(String[] args) {
 		Dinosaur n = new Dinosaur();
